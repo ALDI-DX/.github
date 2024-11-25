@@ -1,6 +1,6 @@
 # We won't drive digital value on our own. But together with you – we will. 👋👩🏻‍💻
 
-<img src="./profile/ALDI_DX_Titelbild-GitHub-Org_1200x628.jpg?raw=true"/>
+<img src="./ALDI_DX_Titelbild-GitHub-Org_1200x628.jpg?raw=true"/>
 
 At ALDI DX we develop innovative digital products and services for our employees as well as our customers in 11 ALDI SÜD countries and over 7,300 ALDI SÜD stores worldwide. We drive digital value to offer great quality at the lowest price.
 
