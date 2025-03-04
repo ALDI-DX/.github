@@ -1,10 +1,16 @@
-# We won't drive digital value on our own. But together with you – we will. 👋👩🏻‍💻
+# ALDI DX – driving digital value
 
 <img src="./ALDI_DX_Titelbild-GitHub-Org_1200x628.jpg?raw=true"/>
 
-At ALDI DX we develop innovative digital products and services for our employees as well as our customers in 11 ALDI SÜD countries and over 7,300 ALDI SÜD stores worldwide. We drive digital value to offer great quality at the lowest price.
+We are driving digital value to offer great quality at the lowest price. 
+ 
+With over 7,300 stores on four continents, the sun never sets on the world of ALDI SÜD. From a small grocery store in Essen-Schonnebeck to a reliable partner for many people around the world: ALDI SÜD promotes good things for everyone. A state-of-the-art IT landscape contributes to its success.  
+ 
+The three core values of the ALDI SÜD Group guide us in this endeavour: simplicity, consistency and responsibility. In addition, our team and our performance are at the heart of everything we do.  
+ 
+At ALDI DX, 3,800 IT colleagues develop innovative digital products and services for our employees and customers. This enables us to maximise our digital added value and offer outstanding quality at the lowest possible price. Together we are reshaping discount retail. One thing is clear: we cannot reshape the future alone. But with your help, we can. Join the movement! 
 
-We will be guided along the way by the three core values of the ALDI SÜD Group – simplicity, reliability and responsibility. And at ALDI DX, our team and our performance are also at the heart of everything we do.
+---
 
 As a [developer](https://it-jobs.aldi-sued.de/en/your-possibilities/developer?utm_source=GitHub&utm_medium=unternehmensprofil&utm_campaign=INT_reprogramretail&utm_term=statisch&utm_content=developer-link), you make the difference. Or perhaps more accurately: code the difference? Because with your code, you have a company-wide impact. Millions of customers and thousands of colleagues around the world benefit from these solutions, which you implement as a developer with us. 💪💡 This is what awaits you: 
 - You find your very own niche of expertise 
